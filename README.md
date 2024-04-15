@@ -10,7 +10,7 @@
 Assignment – 4 [ 100 Points ] CSC-413-02 Spring 2024 San Francisco State University Computer Science Department
 
 Hello, this file is intended to be a roadmap in navigating and executing my submission for Assignment 4.
-Github repo: https://github.com/EdwardMcD/Assignment-3---GUI-Buildout---Initial-Iteration.git
+Github repo: https://github.com/EdwardMcD/Assignment-4-Parsing-and-BST.git
 
 
 Directories:
